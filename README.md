@@ -1,6 +1,6 @@
-# Simple Neural Network from Scratch using PyTorch
+# torch-digit: A Simple Neural Network from Scratch using PyTorch
 
-This repository contains an educational implementation of a basic fully-connected neural network built from scratch using only PyTorch tensors and autograd — no `nn.Module` or `torch.optim` used.
+This repository contains an educational implementation of a basic fully-connected neural network built from scratch using only PyTorch tensors and autograd - no `nn.Module` or `torch.optim` used.
 
 ## 🔧 Features
 
